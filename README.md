@@ -1,2 +1,2 @@
 # Excel App Streamlit
-Easy excel app with streamline
+Easy excel app with streamlit
